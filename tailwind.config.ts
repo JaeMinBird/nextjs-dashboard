@@ -17,6 +17,13 @@ const config: Config = {
           500: '#0070F3',
           600: '#2F6FEB',
         },
+        accent: {
+          500: '#FF5500',
+        },
+      },
+      fontFamily: {
+        mono: ['SF Mono', 'Menlo', 'Monaco', 'Courier New', 'monospace'],
+        sans: ['SF Mono', 'Menlo', 'Monaco', 'system-ui', 'sans-serif'],
       },
     },
     keyframes: {
